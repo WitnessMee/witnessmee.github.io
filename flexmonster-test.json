@@ -1,0 +1,593 @@
+{
+  "page": 0,
+  "pageTotal": 1,
+  "aggs": [
+    {
+      "values": {
+        "EndDate": {
+          "max": "2028-06-20"
+        }
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": null
+        }
+      },
+      "keys": {
+        "DemandChannelName": "RKV_Expertise"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": null
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Operating Model: PRM NonType14 Release"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2023-05-16"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "RKV_INSP14"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2023-07-01"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "PRM_Recurrent Activities"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2022-01-09"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "PRM_Stability"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": null
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Operating Model: Microbiology & Raw Materials"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2028-06-17"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "NPI"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-01-24"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Ad Hoc Samples"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-01-17"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "QCM Manual: Aseptic Technique Assessment"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2025-02-26"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "UMB_EOM Raw Materials - PO Book"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2028-06-18"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "CTL_Unconfirmed Forecasted Batches"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2023-05-09"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "UM_EOM Microbiology - GDM (RM & Micro)"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": null
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Operating Model: UMB Embedded - GDM (RM & Micro)"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": null
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Operating Model: CTL Unconfirmed Forecast Batches"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-04-06"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "test"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2028-04-05"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Stability"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": null
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Operating Model: Unconfirmed Forecast Batches & NPI"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-12-18"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "CTL_ERP NonType14 Stability"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-10-30"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "PRM_LES ERP Release"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-01-17"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "QCM Manual: Gowning Assessments"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": null
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Operating Model: UMB Embedded Raw Materials - PO Book"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": null
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Operating Model: RKV Unconfirmed Forecast Batches & NPI"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2022-12-30"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "CTL_Recurrent Activities"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-12-15"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Adhoc requests-QCB"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2025-01-31"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "RKV_Raw Materials - PO Book"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2028-06-20"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "UMB_EOM Unconfirmed Forecasted Batches"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-03-31"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "QCM Manual: EM"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": null
+        }
+      },
+      "keys": {
+        "DemandChannelName": "QCM Manual: Growth Promotion"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-11-10"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "PRM_ERP NonType14 Release"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2023-01-14"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Micro & Raw Materials_PO BOOK (Capacity Planning)"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-09-14"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "RKV_StandardWork_Requests"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2028-04-18"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Unconfirmed Forecasted Batches"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-01-17"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "QCM Manual: Water Sampling"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-01-17"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "QCM Manual: Endotoxin"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-02-06"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Micro & Raw Materials_GDM (Scheduling)"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2020-11-17"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Microbial IDs"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-01-31"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "QCM Manual: Clean Steam Sampling"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2022-08-05"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "CTL_ERP NonType14 Release"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2022-06-16"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "CTL_Release (LES+ERP)"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-01-15"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "QCM Manual: Water/CV Testing"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2020-11-09"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Micro Paper Release Testing"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-01-17"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "QCM Manual: Gas Sampling"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2026-04-29"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "CTL_Stability"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": null
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Operating Model: RKV Raw Materials - PO Book and NonType14"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-02-07"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "QCM Manual: BI Testing"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2023-07-29"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "RKV_NonType14"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": null
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Operating Model: UMB Embedded Unconfirmed Forecast Batches & NPI"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2028-05-24"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "RKV_Stability (QLIMS)"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2028-05-31"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "UMB Manual: Forecasting Custom Activities"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2025-12-31"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "CTL Manual: Forecasting Custom Activities"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2023-05-23"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Release (LES+ERP)"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2028-04-18"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Sarah test"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-08-30"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "RKV_Otilimab"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-01-17"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "QCM Manual: Plate Reading"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2026-01-14"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "PRM_Unconfirmed Activities"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": "2021-07-19"
+        }
+      },
+      "keys": {
+        "DemandChannelName": "GDM_INSP14"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": null
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Operating Model: PRM Unconfirmed Activities"
+      }
+    },
+    {
+      "values": {
+        "EndDate": {
+          "max": null
+        }
+      },
+      "keys": {
+        "DemandChannelName": "Operating Model: CTL NonType14 Release"
+      }
+    }
+  ]
+}
